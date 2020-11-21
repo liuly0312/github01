@@ -1,8 +1,9 @@
 package com.lly;
 
-public class A {
+public class F {
 
     public static void main(String[] args) {
-        System.out.println("刘路阳修改了A");
+        System.out.println("张旋创建了F");
     }
+
 }
