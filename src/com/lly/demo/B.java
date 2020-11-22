@@ -1,4 +1,4 @@
-package com.lly;
+package com.lly.demo;
 
 public class B {
     public static void main(String[] args) {
